@@ -1,6 +1,3 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
-
-
 ## A sneak peek into what we have here:
 
 ### Home Page:
